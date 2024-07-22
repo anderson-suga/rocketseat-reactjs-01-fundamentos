@@ -1,8 +1,9 @@
-# React + Vite
+# Formação React.js do Rocketseat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Nível 01 - Fundamentos
 
-Currently, two official plugins are available:
+### Iniciando com React.js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Nesse módulo, criaremos uma aplicação React utilizando o Vite e aprenderemos sobre os conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação.
+
+URL: https://www.rocketseat.com.br/formacao/react
